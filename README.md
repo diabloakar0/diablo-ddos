@@ -6,7 +6,6 @@ Coded by DiabloAkar
 ## Giriş:
 
 -  **"Amacı istediğiniz türden proxy'i indirmektir."** 
--  **"AkarGang Developers tarafından codelanmıştır"**
 
 ## Gelişme:
 
