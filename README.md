@@ -3,11 +3,10 @@ Coded by DiabloAkar
 
 <img src="https://media.discordapp.net/attachments/860280965799870464/872048664145707018/standard_1.gif" width="500" />
 
-## Giriş:
+## Uyarı:
 
--  **"Amacı istediğiniz türden proxy'i indirmektir."** 
+-  **"Amacı kötü olan hiç bir şeyde kullanmayın."** 
 
-## Gelişme:
 
 ### Kurulum yapmadan önce yapmanız gerekenler
 
